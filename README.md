@@ -1,6 +1,6 @@
 # Social Science Research in R
 
-Using R for empirical social science research: a step-by-step guide.
+A step-by-step guide to introduce social scientists to basic R code for empirical research.
 
 1. [Load Data](Step01_Load_Data.md)
     1. From CSV
