@@ -15,7 +15,11 @@ A step-by-step guide to introduce social scientists to basic R code for empirica
     1. Matching
     1. Fuzzy Matching
     
-3. Clean Data
+3. Cleaning Data
+    1. Recasting Variables
+    1. Recoding Factors
+    1. Find and Replace
+    1. Missing Values
 
 4. Variable Transformations
     1. Define new Varialbe
