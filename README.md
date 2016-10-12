@@ -48,30 +48,4 @@ Using R for empirical social science research: a step-by-step guide.
     1. Meta-Analysis
     
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Load data (peek, summarize, report data types)  
-Merge data (unique ID or fuzzy match)  
-Data cleaning (find and replace, generate dummies, define groups, variable transformations (eg. logs), recode/order factors, dates)  
-Descriptive statistics (generate table, structure output, correlation matrices, distribution plots)  
-Scatterplot with nice axes / data labels / trends  
-Bivariate relationships (scatterplots, box and whisker plots, mosaic tables or waffle plots)  
-Run regressions (see file I sent you earlier)  
-Specification (semi-partial correlations, model comparison)  
-Adjust standard errors / standardize coefficients  
-Diagnostics of fit / outlier analysis  
-Regression tables (regular vs fixed effects vs logistic)  
-Calculate effects  
-Coefficient plots (report effects graphically)   
-Partitioned regression plots (scatterplots while holding variables constant)  
+ 
