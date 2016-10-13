@@ -2,7 +2,7 @@
 
 A step-by-step guide to introduce social scientists to basic R code for empirical research.
 
-1. [Load Data](Step01_Load_Data.md)
+1. [Load Data](Step01_Load_Data.rmd)
     1. From CSV
     1. From SPSS
     1. From Stata
